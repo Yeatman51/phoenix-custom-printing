@@ -7,14 +7,14 @@ function About() {
 
         <div className="about-text">
             <p>
-                challenge and creativity.
+                Insert paragraph here
         
             </p>
         </div>
 
 
         <div className="email">
-            <h3>jonlyeatman@gmail.com</h3>
+            <h3>email@gmail.com</h3>
         </div>
 
 

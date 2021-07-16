@@ -1,7 +1,7 @@
 {
-  "name": "TechnaCore",
+  "name": "Phoenix Custom Printing",
   "version": "1.0.0",
-  "description": "TechnaCore portfolio page",
+  "description": "Phoenix portfolio page",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",

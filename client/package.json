@@ -1,7 +1,7 @@
 {
-  "name": "TechnaCore",
+  "name": "Phoenix Custom Printing",
   "version": "0.1.0",
-  "description": "Mern TechnaCore",
+  "description": "Mern Phoenixe",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {

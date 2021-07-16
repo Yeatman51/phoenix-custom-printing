@@ -7,21 +7,18 @@ import Home from './pages/Home.js';
 import About from './pages/About.js';
 import Contact from './pages/Contact.js';
 import Footer from './components/Footer.js';
-import NotFound from "./pages/NotFound";
+// import NotFound from "./pages/NotFound";
 
 function App() {
   return (
     <div className="App">
-      
-
-      <Header/>
 
       <Router>
-      <Navbar/>
+      <Header/>
           <Route exact path="/" component={Home} />
           <Route exact path="/About" component={About} />  
           <Route exact path="/Contact" component={Contact} />  
-          <Route component={NotFound} />
+          {/* <Route component={NotFound} /> */}
       </Router>
 
       <Footer/>

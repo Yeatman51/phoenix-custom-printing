@@ -50,7 +50,7 @@ body {
   padding: 10px;
   height: 3vw;
   border-radius: 15px;
-  background-color: transparent;
+  background-color: #22212150;
 }
 
 .links {
@@ -149,10 +149,10 @@ body {
 }
 body {
   margin: 0;
-  background-color: teal;
+  background-color: #333333;
 }
 
 .dividers-line {
   width: 100%;
-  color: gray;
+  color: #D95526;
 }/*# sourceMappingURL=main.css.map */
