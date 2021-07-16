@@ -9,6 +9,7 @@
     z-index: 1;
     padding: 10px;
     height: 3vw;
+    width: 93%;
     border-radius: 15px;
     background-color: $navback;
   }
@@ -42,7 +43,7 @@
 
 
 .active {
-    display: none;
+    color: $red;
 }
 
 .mobile-links {

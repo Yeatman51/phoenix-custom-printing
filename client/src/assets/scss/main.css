@@ -34,6 +34,15 @@ body {
   font-family: "Source Sans Pro", Helvetica, Verdana, sans-serif;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid #D95526;
+}
+
 .footer {
   background-color: gray;
 }
@@ -49,6 +58,7 @@ body {
   z-index: 1;
   padding: 10px;
   height: 3vw;
+  width: 93%;
   border-radius: 15px;
   background-color: #22212150;
 }
@@ -77,7 +87,7 @@ body {
 }
 
 .active {
-  display: none;
+  color: #C1272D;
 }
 
 .mobile-links {
