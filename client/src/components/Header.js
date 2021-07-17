@@ -7,7 +7,7 @@ function Header() {
   return (
     <header>
       <div className="">
-        <img src="" alt="Phoenix Logo" />
+        {/* <img src="/images/phoenix-custom-printing-background.png" alt="Phoenix Logo" /> */}
       </div>
 
       <Navbar />

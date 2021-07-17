@@ -41,6 +41,10 @@ header {
   justify-content: center;
   align-items: center;
   border-bottom: 2px solid #D95526;
+  background-image: url("/src/assets/img/phoenix-custom-printing-background.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  min-height: 35vh;
 }
 
 .footer {
