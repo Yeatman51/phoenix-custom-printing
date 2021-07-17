@@ -23,7 +23,7 @@ function Navbar() {
   <>
     <nav className="desktop-navigation">
         <ul className="links"> 
-            <li><Link to="./">Home</Link></li>
+            <li><Link to="./" id={window.location.pathname === "./" ? "active" : "nooo"}>Home</Link></li>
             <li><Link to="./">Screen Printing</Link></li>
             <li><Link to="./">Embroidery</Link></li>
             <li><Link to="./About">About US</Link></li>

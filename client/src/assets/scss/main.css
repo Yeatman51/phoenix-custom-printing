@@ -44,7 +44,7 @@ header {
 }
 
 .footer {
-  background-color: gray;
+  background-color: #292929;
 }
 
 /* navbar */
@@ -61,6 +61,20 @@ header {
   width: 93%;
   border-radius: 15px;
   background-color: #22212150;
+}
+
+#active {
+  color: #C1272D;
+}
+#active a {
+  color: #C1272D;
+}
+
+#nooo {
+  color: #ffffff;
+}
+#nooo a {
+  color: #ffffff;
 }
 
 .links {
@@ -84,10 +98,6 @@ header {
   font-weight: bold;
   color: #fff;
   text-decoration: none;
-}
-
-.active {
-  color: #C1272D;
 }
 
 .mobile-links {
