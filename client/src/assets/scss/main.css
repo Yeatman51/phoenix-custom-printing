@@ -221,6 +221,34 @@ body {
   min-height: 80vh;
 }
 
+.screen-primary-text-container {
+  text-align: center;
+}
+
+.screen-primary-text {
+  color: white;
+}
+
+.screen-img-container {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.screen-img {
+  max-width: 20vw;
+}
+
+.screen-secondary-text-container {
+  text-align: center;
+}
+
+.screen-secondary-text {
+  color: white;
+}
+
 .screen-colorchart-container {
   display: flex;
   justify-content: center;
