@@ -6,8 +6,12 @@ function Header() {
 
   return (
     <header>
-      <div className="">
-        {/* <img src="/images/phoenix-custom-printing-background.png" alt="Phoenix Logo" /> */}
+      <div className="header-logo-container">
+        <img 
+        src="/images/phoenix-logo.png" 
+        alt="Phoenix Logo"
+        className="header-logo"
+        />
       </div>
 
       <Navbar />

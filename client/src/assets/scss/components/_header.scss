@@ -2,11 +2,20 @@ header {
     display: flex;
     flex-direction: column;
     align-content: center;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     border-bottom: 2px solid $orange;
     background-image: url("/src/assets/img/phoenix-custom-printing-background.png");
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
+    background-size: cover;
     min-height: 35vh;
+}
+
+.header-logo-container {
+    margin: 2vw 0 1.5vw 0;
+}
+
+.header-logo {
+    max-width: 63vw;
 }
