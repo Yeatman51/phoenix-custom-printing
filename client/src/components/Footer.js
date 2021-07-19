@@ -4,8 +4,18 @@ function Footer() {
   return (
     
     <footer className="footer">
-      <img src="" alt="Phoenix Logo" />
-      <h1>PhoenixCustomPrinting@gmail.com</h1>
+      <img 
+      className="footer-logo"
+      src="/images/phoenix-logo.png" 
+      alt="Phoenix Logo"
+     />
+
+      <h1 className="footer-text">PhoenixCustomPrinting@gmail.com</h1>
+
+      <div className="footer-icons">
+
+      </div>
+
     </footer>
   
   );

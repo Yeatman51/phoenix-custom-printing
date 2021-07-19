@@ -1,5 +1,19 @@
 .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
     background-color: $dark;
-    
-    
+}
+
+.footer-logo {
+    max-width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: white;
 }
