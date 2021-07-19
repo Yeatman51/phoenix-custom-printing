@@ -1,3 +1,16 @@
 .screenprinting-container {
     min-height: 80vh;
 }
+
+.screen-colorchart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    margin: 1vw 0 1vw 0;
+}
+
+.screen-colorchart-img {
+    max-width: 85%;
+}
