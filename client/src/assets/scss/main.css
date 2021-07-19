@@ -48,6 +48,10 @@ header {
 }
 
 .footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -57,7 +61,7 @@ header {
 }
 
 .footer-logo {
-  max-width: 90vw;
+  max-width: 75vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -195,4 +199,16 @@ body {
 .dividers-line {
   width: 100%;
   color: #D95526;
+}
+
+.home-container {
+  min-height: 80vh;
+}
+
+.screenprinting-container {
+  min-height: 80vh;
+}
+
+.embroidery-container {
+  min-height: 80vh;
 }/*# sourceMappingURL=main.css.map */

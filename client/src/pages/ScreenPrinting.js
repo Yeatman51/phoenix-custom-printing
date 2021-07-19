@@ -2,7 +2,7 @@ import React from 'react'
 
 function ScreenPrinting() {
     return (
-        <div>
+        <div className="screenprinting-container">
             SP
         </div>
     )

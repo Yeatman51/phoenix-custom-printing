@@ -2,7 +2,7 @@ import React from 'react'
 
 function Embroidery() {
     return (
-        <div>
+        <div className="embroidery-container">
             EMB
         </div>
     )
