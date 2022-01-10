@@ -15,6 +15,9 @@ function Footer() {
       <div className="footer-icons">
 
       </div>
+      <div className="footer-copyright">
+         <h3>&copy; Copyright 2022, Phoenix Custom Printing LLC</h3>
+      </div>
 
     </footer>
   
