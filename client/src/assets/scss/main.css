@@ -83,6 +83,10 @@ header {
   margin: 0 1vw 0 1vw;
 }
 
+.footer-copyright {
+  color: white;
+}
+
 /* navbar */
 .desktop-navigation {
   position: relative;
